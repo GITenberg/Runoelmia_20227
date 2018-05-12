@@ -1,0 +1,37 @@
+_repo: Runoelmia_20227
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Uotila, Oskar
+    alias: Favén, Oskar
+    birthdate: 1853
+    deathdate: 1903
+    gutenberg_agent_id: '9173'
+    url: http://www.gutenberg.org/2009/agents/9173
+    wikipedia: http://fi.wikipedia.org/wiki/Oskar_Uotila
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heine, Heinrich
+    alias: Heine, H. (Heinrich)
+    birthdate: 1797
+    deathdate: 1856
+    gutenberg_agent_id: '1049'
+    url: http://www.gutenberg.org/2009/agents/1049
+    wikipedia: http://en.wikipedia.org/wiki/Heinrich_Heine
+description: ''
+gutenberg_issued: '2006-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20227'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German poetry -- Translations into Finnish'
+- !lcc 'PT'
+title: Runoelmia
+url: http://www.gutenberg.org/ebooks/20227
